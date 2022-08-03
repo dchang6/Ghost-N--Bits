@@ -1,6 +1,6 @@
 Download Instructions
 
-1.Click on the green Code button then select Download Zip
+1.Click on the green Code button then select Download Zip    
 2.Once the download is completed, select open file.    
 3.Click on the first folder until you navigate to the Ghost N' Bits Build folder.   
 4.Click on the application that says Ghost n Blts(Working Title).exe and select to extract all.  
